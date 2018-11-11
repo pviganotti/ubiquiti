@@ -1,2 +1,1 @@
-# ubiquiti
-Ubiquiti
+Ubiquiti Networks - Democratizing Professional Network Technology 
